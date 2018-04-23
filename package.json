@@ -1,0 +1,26 @@
+{
+  "name": "wordguess",
+  "version": "1.0.0",
+  "description": "inquirer and prompt packages needed for word guess game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "wordGameCLI"
+  },
+  "keywords": [
+    "word",
+    "game",
+    "wordgame",
+    "inquirer",
+    "prompt"
+  ],
+  "author": "Cameron Walsh",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "prompt": "^1.0.0"
+  }
+}
